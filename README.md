@@ -1,3 +1,4 @@
+
 ![Git & GitHub for Beginners](image/image8_0e61d0dad8.png)
 
 Welcome to Git & GitHub for Beginners! This guide is designed to help you get started with Git & GitHub. It will help you to understand the basics of Git & GitHub and to get you started with using Git & GitHub.
@@ -592,3 +593,6 @@ $ git branch branch-name # Switched to a new branch 'branch-name'
 $ git log # commit 1a2b3c4 (HEAD -> master)
 
 ```
+=======
+
+>>>>>>> 24bf758142433479601949bddc50baae02830473
